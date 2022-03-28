@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4457685a-af02-45f5-b7bd-1a1cfeef6797" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/edu-ad-boot/src/main/java/com/bcs/eduadboot/EduAdBootApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/edu-ad-boot/src/main/java/com/bcs/eduadboot/controller/AdController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="edu-parent" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="25u89lJ1jo7IUNira8iKPEP8khc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bcs.educourseboot.entity" />
+      <recent name="com.bcs.eduuserboot.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\edu-parent\edu-user-boot\src\main\resources" />
+      <recent name="E:\edu-parent\edu-order-boot\src\main\resources" />
+      <recent name="E:\edu-parent\edu-gateway-boot\src\main\resources" />
+      <recent name="E:\edu-parent\edu-eureka-boot\src\main\resources" />
+      <recent name="E:\edu-parent\edu-course-boot\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.Docker Image">
+    <configuration name="EduAdBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="edu-ad-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bcs.eduadboot.EduAdBootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduAuthorityBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="edu-authority-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bcs.eduauthorityboot.EduAuthorityBootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduCommentBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="edu-comment-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bcs.educommentboot.EduCommentBootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduConfigBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="edu-config-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bcs.educonfigboot.EduConfigBootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduCourseBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="edu-course-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bcs.educourseboot.EduCourseBootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduEurekaBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="edu-eureka-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bcs.eurekaservice.EduEurekaBootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduGatewayBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="edu-gateway-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bcs.edugatewayboot.EduGatewayBootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduOrderBootApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="edu-order-boot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bcs.eduorderboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bcs.eduorderboot.EduOrderBootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduOrderBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="edu-order-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lagou.eduorderboot.EduOrderBootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduUserBootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="edu-user-boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bcs.eduuserboot.EduUserBootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Docker Image" type="docker-deploy" factoryName="docker-image" temporary="true" server-name="Docker">
+      <deployment type="docker-image">
+        <settings>
+          <option name="command" value="" />
+          <option name="containerName" value="user8002" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="subaochao/edu-user-boot:latest" />
+          <option name="commandLineOptions" value="-p 8002:8002" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EduOrderBootApplication (1)" />
+        <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Docker.Docker Image" />
+        <item itemvalue="Docker.Docker Image" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.16937229" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\60250\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4457685a-af02-45f5-b7bd-1a1cfeef6797" name="Default Changelist" comment="" />
+      <created>1646365461811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646365461811</updated>
+      <workItem from="1646365464267" duration="14170000" />
+      <workItem from="1646790612788" duration="56846000" />
+      <workItem from="1646963156826" duration="52122000" />
+      <workItem from="1648434138407" duration="2106000" />
+      <workItem from="1648453226846" duration="1340000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Docker" timestamp="1647401806849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Docker/0.0.1920.1040@0.0.1920.1040" timestamp="1647401806849" />
+    <state x="941" y="369" width="570" height="545" key="#Docker_Image" timestamp="1647408652035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="941" y="369" width="570" height="545" key="#Docker_Image/0.0.1920.1040@0.0.1920.1040" timestamp="1647408652035" />
+    <state x="552" y="181" key="#Environment_variables" timestamp="1647402007694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Environment_variables/0.0.1920.1040@0.0.1920.1040" timestamp="1647402007694" />
+    <state x="552" y="181" key="#Notifications" timestamp="1646831020558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1646831020558" />
+    <state x="552" y="181" key="#Pull_Image" timestamp="1647401764083">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Pull_Image/0.0.1920.1040@0.0.1920.1040" timestamp="1647401764083" />
+    <state x="654" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1646893101922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="654" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1646893101922" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1647238894290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1647238894290" />
+    <state x="549" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1646379363031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="549" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1646379363031" />
+    <state x="551" y="115" key="CommitChangelistDialog2" timestamp="1648454533916">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1648454533916" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1648454336156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1648454336156" />
+    <state width="1877" height="511" key="GridCell.Tab.0.bottom" timestamp="1647583201037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="511" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647583201037" />
+    <state width="1877" height="511" key="GridCell.Tab.0.center" timestamp="1647583201037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="511" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647583201037" />
+    <state width="1877" height="511" key="GridCell.Tab.0.left" timestamp="1647583201037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="511" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647583201037" />
+    <state width="1877" height="511" key="GridCell.Tab.0.right" timestamp="1647583201037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="511" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647583201037" />
+    <state width="1877" height="511" key="GridCell.Tab.1.bottom" timestamp="1647583201037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="511" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1647583201037" />
+    <state width="1877" height="511" key="GridCell.Tab.1.center" timestamp="1647583201037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="511" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1647583201037" />
+    <state width="1877" height="511" key="GridCell.Tab.1.left" timestamp="1647583201037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="511" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1647583201037" />
+    <state width="1877" height="511" key="GridCell.Tab.1.right" timestamp="1647583201037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="511" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1647583201037" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1648454273229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1648454273229" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1646893273378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1646893273378" />
+    <state x="334" y="224" key="new project wizard" timestamp="1647311893322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="224" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1647311893322" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1647308921175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1647308921175" />
+  </component>
+</project>

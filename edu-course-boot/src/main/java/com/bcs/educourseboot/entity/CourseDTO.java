@@ -1,0 +1,127 @@
+package com.bcs.educourseboot.entity;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
+
+import java.io.Serializable;
+import java.util.Date;
+import java.util.List;
+
+/**
+ *
+ * @author BaochaoSu
+ * @since 2022-02-22 10:35:51
+ */
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+public class CourseDTO implements Serializable {
+
+    private List<SectionDTO> courseSections;    // 课程对应的章节
+    private Teacher teacher;  // 课程对应的教师
+    private List<CourseLesson> topTwoLesson;    // 展示的前两小节课
+    // private ActivityCourse activityCourse;// 一门课做一个活动
+
+    private static final long serialVersionUID = 421353774078548365L;
+    /**
+     * id
+     */
+    private String id;
+    /**
+     * 课程名
+     */
+    private String courseName;
+    /**
+     * 课程一句话简介
+     */
+    private String brief;
+    /**
+     * 原价
+     */
+    private Double price;
+    /**
+     * 原价标签
+     */
+    private String priceTag;
+    /**
+     * 优惠价
+     */
+    private Double discounts;
+    /**
+     * 优惠标签
+     */
+    private String discountsTag;
+    /**
+     * 描述markdown
+     */
+    private String courseDescriptionMarkDown;
+    /**
+     * 课程描述
+     */
+    private String courseDescription;
+    /**
+     * 课程分享图片url
+     */
+    private String courseImgUrl;
+    /**
+     * 是否新品
+     */
+    private Integer isNew;
+    /**
+     * 广告语
+     */
+    private String isNewDes;
+    /**
+     * 最后操作者
+     */
+    private Integer lastOperatorId;
+    /**
+     * 自动上架时间
+     */
+    private Date autoOnlineTime;
+    /**
+     * 记录创建时间
+     */
+    private Date createTime;
+    /**
+     * 更新时间
+     */
+    private Date updateTime;
+    /**
+     * 是否删除
+     */
+    private Integer isDel;
+    /**
+     * 总时长(分钟)
+     */
+    private Integer totalDuration;
+    /**
+     * 课程列表展示图片
+     */
+    private String courseListImg;
+    /**
+     * 课程状态，0-草稿，1-上架
+     */
+    private Integer status;
+    /**
+     * 课程排序，用于后台保存草稿时用到
+     */
+    private Integer sortNum;
+    /**
+     * 课程预览第一个字段
+     */
+    private String previewFirstField;
+    /**
+     * 课程预览第二个字段
+     */
+    private String previewSecondField;
+    /**
+     * 销量
+     */
+    private Integer sales;
+
+}
+
